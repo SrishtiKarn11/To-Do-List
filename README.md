@@ -1,6 +1,6 @@
 # 📝 To-Do List Web Application
 
-A simple, responsive, and interactive **To-Do List App** built with HTML, CSS, and JavaScript. This project helps users manage daily tasks effectively with features like adding, completing, and deleting tasks.
+A simple, responsive, and interactive **To-Do List App** built with HTML and CSS This project helps users manage daily tasks effectively with features like adding,  and deleting tasks.
 
 ---
 
@@ -26,7 +26,6 @@ A simple, responsive, and interactive **To-Do List App** built with HTML, CSS, a
 
 - HTML5
 - CSS3
-- JavaScript (Vanilla JS)
 
 ---
 
